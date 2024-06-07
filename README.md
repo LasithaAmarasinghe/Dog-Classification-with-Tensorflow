@@ -25,11 +25,10 @@ You can find the code for this project here.
 * JupyerLab / Google Colaboratory
 * Python 3.10.12
 * Python packages
-    * Tensorflow
-    * Keras
-    * Pillow
-    * Pandas
-    * Matplotlib
+    * Tensorflow  - `pip install tensorflow`
+    * Pillow  - `pip install pillow`
+    * Pandas  - `pip install pandas`
+    * Matplotlib - `pip install matplotlib`
      
 ## Data
 
