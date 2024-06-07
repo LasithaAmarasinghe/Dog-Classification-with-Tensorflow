@@ -20,7 +20,7 @@
 
 ## Code
 You can find the code for this project here.
-* [dog classification](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow-/blob/main/dog%20classification.ipynb).
+* [dog classification.ipynb](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow-/blob/main/dog%20classification.ipynb)
 
 ## Technologies/Tools
 
@@ -36,7 +36,7 @@ You can find the code for this project here.
 
 Data used are from the [Stanford](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 
-You can download the dog image dataset used in this project here:
+You can download the dog image dataset used in this project here.
 
 * [dog_images.zip](https://drive.google.com/uc?export=download&id=1sj62C-9WKD09-8iYSeEvXmAGQoY2oFFQ) - please unzip this file into a folder called `images`.
 
