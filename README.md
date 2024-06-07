@@ -22,7 +22,7 @@ You can find the code for this project here.
 
 ## Technologies/Tools
 
-* JupyerLab / Google Colaboratory
+* JupyerLab / [Google Colab](https://colab.research.google.com/)
 * Python 3.10.12
 * Python packages
     * Tensorflow  - `pip install tensorflow`
