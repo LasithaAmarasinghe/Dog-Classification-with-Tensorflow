@@ -20,7 +20,7 @@
 
 ## Code
 You can find the code for this project here.
-* [dog classification](https://github.com/dataquestio/project-walkthroughs/tree/master/dog_classification).
+* [dog classification](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow-/blob/main/dog%20classification.ipynb).
 
 ## Technologies/Tools
 
