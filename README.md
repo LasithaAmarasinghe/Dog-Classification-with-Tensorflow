@@ -1,5 +1,7 @@
 # Dog-Classification-with-Tensorflow 
 
+![image](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow-/assets/106037441/05d2f9bd-c320-4082-9a20-1d64bcb1c7ef)
+
 ## Overview
 
 * This is an end-to-end deep learning project using **Tensorflow** and **Keras**.
