@@ -1,37 +1,26 @@
-# Dog-Classificaton
+# Dog-Classification
 
-# Project Overview
+## Overview
 
-In this project, we'll walk through an end to end deep learning project using Tensorflow and Keras.  We'll read in a dataset of dog images, then train a convolutional neural network to classify them by breed.
-
-By the end, you'll know how to use keras to train and optimize a neural network.  You'll also learn about how to work with images using Python.
+* This is an end-to-end deep learning project using **Tensorflow** and **Keras**.
+* A dataset of dog images is read, and then a convolutional neural network is trained to classify them by breed.
+* This repository contains the code and resources necessary to build this dog classification system.
 
 ## Code
+You can find the code for this project here.
+* [dog classification](https://github.com/dataquestio/project-walkthroughs/tree/master/dog_classification).
 
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/dog_classification).
+## Technologies/Tools
 
-File overview:
-
-* `classifier.ipynb` - a Jupyter notebook that loads the images and trains a neural network.
-
-# Local Setup
-
-## Installation
-
-To follow this project, please install the following locally:
-
-* JupyerLab
-* Python 3.8+
+* JupyerLab / Google Colaboratory
+* Python 3.10.12
 * Python packages
-    * tensorflow
+    * Tensorflow
+    * Keras
     * Pillow
-    * pandas
-    * matplotlib
-    
-You will also need to have a GPU on your machine and configured.  To set things up, you'll need to install [GPU support for tensorflow](https://www.tensorflow.org/install/gpu).
- 
-If you have issues installing tensorflow and/or don't have a GPU, please use [Google Colaboratory](https://colab.research.google.com/).  Colaboratory will give you a Jupyter notebook in the cloud with full GPU support.
-
+    * Pandas
+    * Matplotlib
+     
 ## Data
 
 You'll need to download the dog image dataset to follow this project:
