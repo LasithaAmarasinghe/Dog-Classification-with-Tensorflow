@@ -1,6 +1,6 @@
 # Dog-Classification-with-Tensorflow 
 
-![image](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow-/assets/106037441/05d2f9bd-c320-4082-9a20-1d64bcb1c7ef)
+![image](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow/assets/106037441/a857021a-c305-4d4f-8a31-7ea70a54e985)
 
 ## Overview
 
@@ -40,4 +40,6 @@ You can download the dog image dataset used in this project here.
 
 * [dog_images.zip](https://drive.google.com/uc?export=download&id=1sj62C-9WKD09-8iYSeEvXmAGQoY2oFFQ) - please unzip this file into a folder called `images`.
 
+## Output
 
+![image](https://github.com/LasithaAmarasinghe/Dog-Classification-with-Tensorflow-/assets/106037441/05d2f9bd-c320-4082-9a20-1d64bcb1c7ef)
