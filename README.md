@@ -6,7 +6,7 @@
 
 * This is an end-to-end deep learning project using **Tensorflow** and **Keras**.
 * A dataset of dog images is read, and then a convolutional neural network is trained to classify the dogs by breed.
-* This repository contains the code and resources necessary to build this dog classification system.
+* This repository contains all the codes and resources used to build this dog classification system.
 
 ## Steps
 
