@@ -26,11 +26,19 @@ You can find the code for this project here.
 
 * JupyerLab / [Google Colab](https://colab.research.google.com/)
 * Python 3.10.12
+* Tensorflow  - `pip install tensorflow`
 * Python packages
-    * Tensorflow  - `pip install tensorflow`
-    * Pillow  - `pip install pillow`
     * Pandas  - `pip install pandas`
+    * Pillow  - `pip install pillow`
     * Matplotlib - `pip install matplotlib`
+
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras_-black?logo=keras)
+![Pandas](https://img.shields.io/badge/pandas_-%20green?logo=pandas)
+![Pillow](https://img.shields.io/badge/pillow_-blue)
+![Matplotlib](https://img.shields.io/badge/matplotlib_-purple)
      
 ## Data
 
